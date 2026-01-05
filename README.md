@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👩‍💻 Full-stack developer building real-world apps using Spring Boot, React, and JavaScript.<br>🌱 Currently leveling up DSA, backend logic, and scalable system design.<br>🚀 Love turning ideas into working products and learning by breaking and fixing code..
+👩‍💻 Full-stack developer building real-world apps using Spring Boot, React, and Hibernate.<br>🌱 Currently leveling up DSA, backend logic, and scalable system design.<br>🚀 Love turning ideas into working products and learning by breaking and fixing code..
 
 
 ## 🌐 Socials:
